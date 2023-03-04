@@ -92,13 +92,13 @@ main{
   justify-content: flex-start;
 }
 
-.log-image{
-  height:180;
+.blog-image{
+  height: 180px;
 }
 
 
 .blog-text{
-  padding:25px 0 0 30px;
+  padding: 25px 0 0 30px;
 }
 
 
